@@ -42,7 +42,7 @@ To accurately measure the phase delay, a 2 GHz RF sinusoidal signal was generate
 The chromatic dispersion $D(\lambda)$ was calculated by measuring the time delay variation ($\Delta\tau$) of the 2 GHz modulated signal as the laser wavelength ($\lambda$) was swept in 0.2 nm increments. The system was successfully validated using a Standard Single-Mode Fiber (SSMF) before testing the MCF.
 
 $$D(\lambda) = \frac{1}{L} \frac{d\tau}{d\lambda}$$
-*(Where $L$ is the fiber length, $20 km$)*
+*(Where L is the fiber length, 20 km)*
 
 ## 📁 Repository Structure
 
