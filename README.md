@@ -46,9 +46,7 @@ $$D(\lambda) = \frac{1}{L} \frac{d\tau}{d\lambda}$$
 
 ## 📁 Repository Structure
 
-* `/Data`: Raw experimental data (OTDR traces, phase delay measurements).
 * `/Report`: Full scientific report (Portuguese) detailing the procedures, theoretical background, and extended data tables.
-* `/Images`: Setup schematics and equipment photographs.
 
 ## 👥 Authors & Acknowledgements
 
